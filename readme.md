@@ -1,4 +1,3 @@
-Here's a **README.md** file for your project and a clean commit message to describe your changes:
 
 ---
 
