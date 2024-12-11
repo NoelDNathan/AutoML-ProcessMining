@@ -102,7 +102,11 @@ class LogAnalyzer:
     def analyze_activity_pairs(self):
         """Analyze and visualize bigram (consecutive activity) frequencies."""
         pairs = {}
-        for trace in self.log:
+        if isinstance(self.log, pd.DataFrame):
+            event_log = log_converter.apply(self.log, variant=log_converter.Variants.TO_EVENT_LOG)
+        else:
+            event_log = self.log
+        for trace in event_log:
             for i in range(len(trace) - 1):
                 pair = (trace[i]['concept:name'], trace[i + 1]['concept:name'])
                 pairs[pair] = pairs.get(pair, 0) + 1

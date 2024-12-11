@@ -14,11 +14,6 @@ def main():
     print("\n--- Event Log Analysis ---")
     analyzer = LogAnalyzer(log, style=STYLE)
     print("\n--- Start and End Activities ---")
-    print("\n--- Case Length vs Throughput Analysis ---")
-    analyzer.analyze_case_length_vs_throughput()
-
-    print("\n--- Top Activity Pairs ---")
-    analyzer.analyze_activity_pairs()
     analyzer.analyze_start_end_activities()
     print("\n--- Variants Analysis ---")
     analyzer.analyze_variants()
