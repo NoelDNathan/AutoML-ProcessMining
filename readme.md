@@ -1,16 +1,20 @@
 
----
 
-### **`README.md`**
-
-```markdown
 # Event Log Analysis and Process Discovery
 
 ## Overview
 This project provides an end-to-end solution for analyzing event logs and discovering process models. The tool utilizes the **PM4Py** library for event log analysis, process discovery, and evaluation. All results, including plots and metrics, are saved automatically for easy reporting and further analysis.
 
 ---
+## Ultimate Goal
+Our ultimate goal is to **develop a system that automates the selection and tuning of process discovery algorithms**. The system should:
+- Perform **detailed exploratory data analysis (EDA)** on event log datasets to uncover insights about the process flows, case variations, and bottlenecks.
 
+- Automatically select the best algorithm for a given event log dataset.
+- Optimize hyperparameter settings to improve model quality.
+- Use automated optimization techniques to ensure the highest performance of discovered process models.
+
+---
 ## Features
 
 ### Event Log Analysis
@@ -88,9 +92,10 @@ event_log_analysis/
 - Matplotlib and Seaborn
 
 ### Install Dependencies
-Run the following command to install all required libraries:
+Run the following commands to install all required libraries:
 ```bash
-pip install pm4py matplotlib seaborn pandas
+pip install -r requirements.txt
+conda install python-graphviz
 ```
 
 ---
@@ -114,3 +119,14 @@ After execution, results will be stored in the `results` folder. Check the follo
 ---
 
 
+## Acknowledgement 
+This project is developed as part of the **Explainable Automated Machine Learning** course at the **University of Tartu** under the supervision of [Prof. Radwa ElShawi](https://github.com/RadwaElShawi).
+
+---
+
+## Authors
+- [Ahmed Wael](https://github.com/ahmedwael19)  
+- [Mohamed Maher](https://github.com/mmaher22)  
+- [Noel Nathan](https://github.com/NoelDNathan)  
+
+---
