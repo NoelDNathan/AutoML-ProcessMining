@@ -9,7 +9,6 @@ STYLE = "ggplot"
 def main():
     # Load the log file
     log = LogLoader.load_log(FILE_PATH)
-
     # Log Analysis
     print("\n--- Event Log Analysis ---")
     analyzer = LogAnalyzer(log, style=STYLE)
@@ -25,11 +24,8 @@ def main():
     analyzer.analyze_throughput_time()
     print("\n--- Activity Boxplot ---")
     analyzer.analyze_activity_boxplot()
-    print("\n--- Start End Activities Analysis ---")
-    analyzer.analyze_start_end_activities()
     print("\n--- Case Length vs Throughput Analysis ---")
     analyzer.analyze_case_length_vs_throughput()
-
     print("\n--- Top Activity Pairs ---")
     analyzer.analyze_activity_pairs()
     # Save the final summary

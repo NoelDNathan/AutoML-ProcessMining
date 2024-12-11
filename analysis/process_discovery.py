@@ -3,8 +3,8 @@ from pm4py import fitness_token_based_replay
 from pm4py.visualization.petri_net import visualizer as pn_visualizer
 import pm4py.algo.evaluation.simplicity.algorithm as evaluate_simplicity
 import pm4py.algo.evaluation.generalization.variants.token_based as evaluate_generalization
-from event_log_analysis.utils.save_utils import SaveUtils
-
+from utils.save_utils import SaveUtils
+import os
 class ProcessDiscovery:
     """Class for process discovery and evaluation."""
 
@@ -28,10 +28,14 @@ class ProcessDiscovery:
         for name, miner in miners.items():
             print(f"\n--- {name} ---")
             self.summary += f"\n--- {name} ---\n"
+            plot_filename = f"{name.replace(' ', '_').lower()}_petri_net.png"
+            save_path = os.path.join("results", "plots", plot_filename)
+
             net, im, fm = miner(self.log)
             gviz = pn_visualizer.apply(net, im, fm)
-            pn_visualizer.view(gviz)
-
+            SaveUtils.ensure_dir(os.path.dirname(save_path))
+            pn_visualizer.save(gviz, save_path)
+            print(f"Saved Petri Net visualization: {save_path}")
             # Evaluation
             fitness = fitness_token_based_replay(self.log, net, im, fm)["log_fitness"]
             simplicity = evaluate_simplicity.apply(net)

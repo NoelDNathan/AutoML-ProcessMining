@@ -3,11 +3,12 @@ from pm4py.statistics.start_activities.log.get import get_start_activities
 from pm4py.statistics.end_activities.log.get import get_end_activities
 from pm4py.statistics.traces.generic.log import case_statistics
 from pm4py.algo.filtering.log.attributes import attributes_filter
-from event_log_analysis.utils.plot_utils import PlotUtils
-from event_log_analysis.utils.save_utils import SaveUtils
+from utils.plot_utils import PlotUtils
+from utils.save_utils import SaveUtils
 from pm4py.objects.conversion.log import converter as log_converter
 from pm4py.objects.log.util import sorting
 import pandas as pd
+
 class LogAnalyzer:
     """Class for event log analysis."""
 
