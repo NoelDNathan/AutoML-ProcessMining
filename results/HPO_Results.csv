@@ -1,0 +1,28 @@
+Objective	Time Budget (Minutes)	Approach	Fitness	Generalization	Simplicity	
+		Alpha Miner - Default	0.4199	0.419	0.8553	
+		Huresitc Miner - Default	0.8892	0.4768	0.6057	
+		Inductive Miner - Default	1	0.5947	0.8617	
+	5	Deap (Genetic Algorithm)	1	0.9857	1	"('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})"
+	5	Optuna (TPE)	0.8825	0.5736	0.4901	"{'algorithm': 'heuristic', 'heuristic_dep': 0.3783655227755859, 'heuristic_and': 0.5496077548588966, 'heuristic_noise': 0.3441240591482079}"
+	5	HyperOpt				
+	15	Deap (Genetic Algorithm)	1	0.9857	1	"('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})"
+	15	Optuna (TPE)	1	0.9857	1	"{'algorithm': 'inductive', 'inductive_variant': 'im', 'inductive_noise': 0.37813995571195436, 'inductive_activity_frequency': 0.8649451592552164}"
+	15	HyperOpt				
+	30	Deap (Genetic Algorithm)	1	0.9857	1	"('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})"
+	30	Optuna (TPE)	1	0.9857	1	"{'algorithm': 'inductive', 'inductive_variant': 'im', 'inductive_noise': 0.34760141805819644, 'inductive_activity_frequency': 0.6412589930965046}"
+	30	HyperOpt				
+	60	Deap (Genetic Algorithm)	1	0.9857	1	"('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})"
+	60	Optuna (TPE)	1	0.9857	1	" {'algorithm': 'inductive', 'inductive_variant': 'im', 'inductive_noise': 0.1472287340208216, 'inductive_activity_frequency': 0.49771993004609294}"
+	60	HyperOpt				
+Fitness+Generalization+Simplicity	5	Deap (Genetic Algorithm)				
+	5	Optuna (TPE)	0.9057	0.7131	0.5356	"{'algorithm': 'heuristic', 'heuristic_dep': 0.6806429120299291, 'heuristic_and': 0.5124936690713676, 'heuristic_noise': 0.35093780968916133}"
+	5	HyperOpt				
+	15	Deap (Genetic Algorithm)				
+	15	Optuna (TPE)	1	0.9857	1	"{'algorithm': 'inductive', 'inductive_variant': 'imf', 'inductive_noise': 0.4065738116705626, 'inductive_activity_frequency': 0.825853228137636}"
+	15	HyperOpt				
+	30	Deap (Genetic Algorithm)				
+	30	Optuna (TPE)	1	0.9857	1	"{'algorithm': 'inductive', 'inductive_variant': 'im', 'inductive_noise': 0.33888040602778513, 'inductive_activity_frequency': 0.13336924989420676}"
+	30	HyperOpt				
+	60	Deap (Genetic Algorithm)				
+	60	Optuna (TPE)	1	0.9857	1	"{'algorithm': 'inductive', 'inductive_variant': 'imd', 'inductive_noise': 0.3989628419476854, 'inductive_activity_frequency': 0.5813327333378211}"
+	60	HyperOpt				

@@ -1,0 +1,2158 @@
+Consumed Time Till Now: %.2f Minutes 1.2755393981933593e-06
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 183.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 176.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 160.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 182.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:13<00:00, 77.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:13<00:00, 81.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 48.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 82.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 220.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 197.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 343.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 368.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 179.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 180.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 56.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 36.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:13<00:00, 35.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 78.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 84.22it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 0 1.0
+Best Hyperparameters in Generation %d: %s 0 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 2.9440500418345135
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 75.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 44.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 35.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 60.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 70.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 76.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 370.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 364.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 184.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 372.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 93.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 103.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 370.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 208.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 73.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 319.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 204.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 167.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 181.32it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 1 1.0
+Best Hyperparameters in Generation %d: %s 1 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 5.506657854715983
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 236.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 350.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 180.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 343.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 340.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 355.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 359.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 344.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 190.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 263.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 360.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 178.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 303.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.92it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 2 1.0
+Best Hyperparameters in Generation %d: %s 2 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 6.4973278641700745
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 285.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 215.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 351.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 353.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 205.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 346.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 321.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 360.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 188.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 358.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 367.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 193.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 339.05it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 3 1.0
+Best Hyperparameters in Generation %d: %s 3 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 7.4820138096809385
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 346.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 357.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 184.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 307.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 368.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 353.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 121.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 194.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 164.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 200.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 73.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 340.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 195.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 172.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 196.84it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 4 1.0
+Best Hyperparameters in Generation %d: %s 4 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 8.465870412190755
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 199.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 347.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 231.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 129.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 236.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 341.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 232.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 143.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 342.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 261.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 287.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 315.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.77it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 5 1.0
+Best Hyperparameters in Generation %d: %s 5 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 9.492662334442139
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 192.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 325.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 344.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 342.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 192.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 306.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 338.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 354.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 202.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 84.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 357.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 256.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 185.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 340.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 212.41it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 6 1.0
+Best Hyperparameters in Generation %d: %s 6 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 10.505023197333019
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 209.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 121.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 344.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 338.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 200.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 191.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 256.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 362.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 153.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 341.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 78.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 351.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 201.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 195.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 307.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 354.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 224.58it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 7 1.0
+Best Hyperparameters in Generation %d: %s 7 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 11.515797861417134
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 323.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 132.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 274.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 345.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 253.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 179.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 87.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 202.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 143.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 327.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 189.20it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 8 1.0
+Best Hyperparameters in Generation %d: %s 8 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 12.573870388666789
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 345.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 185.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 347.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 362.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 354.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 145.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 332.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 201.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 192.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 218.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 354.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 189.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 331.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 206.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 210.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 236.14it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 9 1.0
+Best Hyperparameters in Generation %d: %s 9 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 13.591385463873545
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 358.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 191.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 226.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 191.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 203.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 359.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 186.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 196.20it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 353.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 342.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 332.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 321.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 324.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 220.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 152.48it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 10 1.0
+Best Hyperparameters in Generation %d: %s 10 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 14.610609956582387
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 351.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 338.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 334.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 196.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 322.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 156.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 356.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 158.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 171.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 320.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 169.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 348.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 179.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 139.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 342.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 356.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 86.36it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 11 1.0
+Best Hyperparameters in Generation %d: %s 11 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 15.670532127221426
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 306.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 354.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 344.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 352.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 105.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 344.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 346.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 198.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 230.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 182.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 328.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 351.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 196.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 167.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 222.79it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 12 1.0
+Best Hyperparameters in Generation %d: %s 12 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 16.67989053328832
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 171.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 168.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 199.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 72.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 339.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 342.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 209.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 190.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 338.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 209.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 177.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 343.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 334.61it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 13 1.0
+Best Hyperparameters in Generation %d: %s 13 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 17.70801450808843
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 200.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 334.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 320.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 234.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 177.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 340.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 322.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 341.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 195.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 165.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 64.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 328.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 260.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 191.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 183.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 341.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.64it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 14 1.0
+Best Hyperparameters in Generation %d: %s 14 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 18.790179987748463
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 252.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 339.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 314.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 157.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 296.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 325.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 349.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 167.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 304.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 250.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 325.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 200.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 289.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 65.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 90.12it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 15 1.0
+Best Hyperparameters in Generation %d: %s 15 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 20.089474292596183
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 229.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 171.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 319.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 347.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 340.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 185.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 306.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 312.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 325.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 186.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 282.51it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 16 1.0
+Best Hyperparameters in Generation %d: %s 16 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 21.15536920229594
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 330.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 209.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 205.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 289.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 308.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 170.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 88.20it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 320.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 206.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 197.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 197.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 321.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 322.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 177.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 254.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 188.66it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 17 1.0
+Best Hyperparameters in Generation %d: %s 17 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 22.271484768390657
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 324.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 279.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 341.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 328.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 194.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 290.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 324.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 306.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 81.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 297.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 331.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 315.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 207.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 280.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 308.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 324.48it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 18 1.0
+Best Hyperparameters in Generation %d: %s 18 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 23.345207595825194
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 318.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 190.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 297.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 332.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 173.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 326.20it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 320.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 322.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 178.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 286.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 185.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 329.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 333.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 193.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 299.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 318.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 323.93it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 19 1.0
+Best Hyperparameters in Generation %d: %s 19 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 24.432198774814605
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 331.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 48.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 81.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 204.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 193.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 319.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 299.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 194.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 157.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 306.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 345.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 323.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 175.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 331.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 326.48it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 20 1.0
+Best Hyperparameters in Generation %d: %s 20 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 25.814184240500133
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 335.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 298.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 311.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 313.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 338.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 185.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 316.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 328.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 323.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 314.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 191.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 303.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 315.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 207.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 292.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 334.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 323.17it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 21 1.0
+Best Hyperparameters in Generation %d: %s 21 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 26.910108149051666
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 178.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 297.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 306.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 317.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 175.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 315.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 60.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 95.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 336.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 184.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 318.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 274.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 319.01it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 22 1.0
+Best Hyperparameters in Generation %d: %s 22 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 28.302123880386354
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 182.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 295.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 284.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 322.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 287.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 135.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 319.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 300.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 308.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 287.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 288.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 198.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 285.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 161.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 313.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 321.14it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 23 1.0
+Best Hyperparameters in Generation %d: %s 23 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 29.416163225968678
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 190.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 282.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 306.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 312.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 305.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 171.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 295.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 307.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 172.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 285.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 160.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 315.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 297.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 178.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 295.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 305.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 273.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 211.48it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 24 1.0
+Best Hyperparameters in Generation %d: %s 24 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 30.546279060840607
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 178.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 254.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 308.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 250.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 301.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 316.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 309.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 315.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 202.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 168.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 249.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 319.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 301.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 258.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 170.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 261.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 319.46it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 25 1.0
+Best Hyperparameters in Generation %d: %s 25 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 31.69858738978704
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 131.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 175.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 305.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 297.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 211.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 300.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 314.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 230.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 216.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 179.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 304.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 331.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 292.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 232.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 185.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 288.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 315.68it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 26 1.0
+Best Hyperparameters in Generation %d: %s 26 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 32.814762810866036
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 288.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 172.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 270.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 315.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 296.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 207.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 291.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 309.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 301.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 190.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 282.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 127.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 288.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 186.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 237.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 306.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 299.03it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 27 1.0
+Best Hyperparameters in Generation %d: %s 27 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 33.93744038343429
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 293.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 280.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 256.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 182.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 177.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 314.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 184.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 261.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 310.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 316.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 164.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 297.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 302.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 305.41it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 28 1.0
+Best Hyperparameters in Generation %d: %s 28 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 35.1106619199117
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 174.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 277.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 272.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 274.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 196.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 217.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 309.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 291.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 303.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 173.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 284.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 295.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 293.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 222.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 189.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 289.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.28it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 29 1.0
+Best Hyperparameters in Generation %d: %s 29 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 36.26020168860753
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 178.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 300.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 288.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 300.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 221.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 185.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 270.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 308.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 267.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 66.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 273.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 294.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 213.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 181.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 213.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 305.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 211.45it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 30 1.0
+Best Hyperparameters in Generation %d: %s 30 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 37.41918518940608
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 194.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 297.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 292.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 185.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 168.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 259.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 311.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 300.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 182.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 302.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 286.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 289.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 186.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 295.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 290.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 293.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.36it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 31 1.0
+Best Hyperparameters in Generation %d: %s 31 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 38.6185885032018
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 169.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 307.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 308.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 179.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 225.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 249.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 294.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 297.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 206.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 273.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 298.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 297.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 257.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 105.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 299.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 299.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 299.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 190.50it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 32 1.0
+Best Hyperparameters in Generation %d: %s 32 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 39.789336037635806
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 266.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 285.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 62.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 281.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 294.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 287.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 213.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 171.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 154.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 102.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 163.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 303.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 57.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 85.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 120.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 166.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 296.74it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 33 1.0
+Best Hyperparameters in Generation %d: %s 33 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 41.43558975060781
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 259.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 140.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 294.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 299.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 179.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 264.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 280.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 255.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 295.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 276.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 304.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 280.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 299.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 173.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 238.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.15it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 34 1.0
+Best Hyperparameters in Generation %d: %s 34 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 42.60217960675558
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 54.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 94.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 244.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 295.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 244.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 192.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 256.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 305.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 284.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 283.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 167.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 262.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 281.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 287.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 182.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 205.97it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 35 1.0
+Best Hyperparameters in Generation %d: %s 35 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 44.055060331026716
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 191.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 103.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 170.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 285.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 294.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 303.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 198.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 252.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 282.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 235.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 177.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 255.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 302.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 301.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 271.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 275.54it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 36 1.0
+Best Hyperparameters in Generation %d: %s 36 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 45.27727276086807
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 282.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 243.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 87.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 274.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 295.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 214.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 173.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 284.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 298.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 306.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 196.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 181.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 287.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 278.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 288.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 149.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 185.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 300.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 286.72it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 37 1.0
+Best Hyperparameters in Generation %d: %s 37 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 46.45698723395665
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 276.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 176.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 193.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 132.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 278.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 166.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 274.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 285.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 138.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 179.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 170.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 195.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 233.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 180.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 254.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 287.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 293.98it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 38 1.0
+Best Hyperparameters in Generation %d: %s 38 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 47.7093229730924
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 173.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 262.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 193.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 185.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 267.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 274.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 274.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 87.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 61.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 236.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 258.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 268.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 291.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 283.36it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 39 1.0
+Best Hyperparameters in Generation %d: %s 39 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 49.22493781646093
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 251.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 232.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 276.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 276.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 293.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 197.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 278.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 177.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 280.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 172.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 90.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 83.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 271.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 152.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 166.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 184.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 219.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 286.46it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 40 1.0
+Best Hyperparameters in Generation %d: %s 40 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 50.77036920785904
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 271.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 187.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 101.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 293.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 276.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 186.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 192.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 274.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 290.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 292.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 177.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 277.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 163.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 270.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 174.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 184.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 268.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 247.64it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 41 1.0
+Best Hyperparameters in Generation %d: %s 41 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 51.981126709779105
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 282.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 167.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 226.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 278.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 265.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 129.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 231.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 288.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 269.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 283.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 163.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 256.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 263.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 268.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 204.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 178.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 250.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 230.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.93it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 42 1.0
+Best Hyperparameters in Generation %d: %s 42 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 53.1957751472791
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 199.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 171.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 280.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 270.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 283.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 168.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 170.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 256.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 169.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 174.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 172.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 264.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 223.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 291.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 168.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 165.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 250.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 295.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 194.21it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 43 1.0
+Best Hyperparameters in Generation %d: %s 43 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 54.46607494751613
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 189.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 279.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 261.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 284.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 187.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 234.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 289.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 279.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 245.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 172.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 237.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 254.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 266.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 185.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 243.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 259.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 274.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 81.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 53.95it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 44 1.0
+Best Hyperparameters in Generation %d: %s 44 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 55.99180773099263
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 267.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 285.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 240.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 179.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 188.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 237.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 255.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 170.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 282.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 262.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 275.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 171.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 150.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 172.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 199.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 261.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 215.92it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 45 1.0
+Best Hyperparameters in Generation %d: %s 45 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 57.29090261856715
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 261.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 243.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 182.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 241.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 277.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 129.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 233.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 181.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 223.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 271.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 121.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 200.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 255.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 276.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 126.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 189.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 166.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 263.85it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 46 1.0
+Best Hyperparameters in Generation %d: %s 46 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 58.53719881772995
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 250.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 173.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 183.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 177.08it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 276.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 273.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 252.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 171.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 173.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 258.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 146.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 177.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 233.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 267.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 271.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 166.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 169.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 145.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 269.31it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 47 1.0
+Best Hyperparameters in Generation %d: %s 47 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Consumed Time Till Now: %.2f Minutes 59.83435563246409
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 261.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 177.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 199.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 57.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 169.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 149.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 198.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 239.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 105.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 170.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 268.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 271.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 248.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 96.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 263.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 272.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 234.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 176.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:04<00:00, 68.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 254.00it/s]
+Finished Iteration...
+Best Fitness in Generation %d: %f 48 1.0
+Best Hyperparameters in Generation %d: %s 48 ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})
+Best individual single objective: %s, Fitness: %s [2, False, True, 0.6261844004095252, 0.514573972084892, 0.060924172579308766, 0.11352356198204427, 0, 0.6713516770416368] (1.0,)
+Best hyperparameters: %s ('inductive', {'noise_thresh': 0.11352356198204427, 'variant': 'im', 'activity_frequency_filter': 0.6713516770416368})

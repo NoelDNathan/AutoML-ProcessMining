@@ -48,9 +48,8 @@ Our ultimate goal is to **develop a system that automates the selection and tuni
 ## Output
 Results are saved automatically in the `results` folder:
 - **Plots**: High-quality PNG files (e.g., `start_activities.png`, `top_variants.png`).
-- **Metrics**:
-  - CSV files (e.g., `process_discovery_results.csv`, `start_activities.csv`).
-  - Summaries in text format (e.g., `process_discovery_summary.txt`, `summary.txt`).
+- **Metrics**: 
+  - The file `results/HPO_Results.csv` includes the results of the baselines and HPO frameworks.
 
 ---
 
@@ -78,7 +77,9 @@ event_log_analysis/
     ├── start_activities.csv
     └── summary.txt
 ├── notebooks/
-│   └── EDA.ipynb ## Complete Analysis for XES log files
+    └── EDA.ipynb ## Complete Analysis for XES log files
+    └── HPO_Optuna_TPE.ipynb ## The HPO using Optuna Framework with Bayesian Optimization (Tree Parzen Estimator)
+    └── HPO_DEAP_GeneticAlgorithm.ipynb ## The HPO using DEAP Framework with Genetic Algorithm
 
 ```
 
@@ -90,6 +91,9 @@ event_log_analysis/
 - Python 3.8+
 - PM4Py Library
 - Matplotlib and Seaborn
+- Optuna
+- HyperOpt
+- Deap
 
 ### Install Dependencies
 Run the following commands to install all required libraries:
@@ -107,7 +111,8 @@ conda install python-graphviz
    ```bash
    python main.py
    ```
-
+4. Run the notebook in `notebooks/HPO_DEAP_GeneticAlgorithm.ipynb` for the HPO using genetic algorithm.
+5. Run the notebook in `notebooks/HPO_Optuna_TPE.ipynb` for the HPO using Bayesian Optimization.
 ---
 
 ## Results
@@ -115,6 +120,8 @@ After execution, results will be stored in the `results` folder. Check the follo
 1. **Plots**: High-quality visualizations.
 2. **Summaries**: Text-based insights and CSV outputs.
 3. **Metrics**: Evaluation of process models for Fitness, Simplicity, and Generalization.
+
+The logs containing the results of the HPO frameworks are saved in the `logs` folder. 
 
 ---
 
@@ -126,7 +133,7 @@ This project is developed as part of the **Explainable Automated Machine Learnin
 
 ## Authors
 - [Ahmed Wael](https://github.com/ahmedwael19)  
-- [Mohamed Maher](https://github.com/mmaher22)  
+- [Mohamed Maher](mohamed.abdelrahman@ut.ee)  
 - [Noel Nathan](https://github.com/NoelDNathan)  
 
 ---

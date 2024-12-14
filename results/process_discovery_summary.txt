@@ -1,0 +1,10 @@
+Algorithm           | Fitness   | Simplicity | Generalization
+
+--- Alpha Miner ---
+Alpha Miner        | 0.4199   | 0.4190     | 0.8553
+
+--- Heuristic Miner ---
+Heuristic Miner    | 0.8892   | 0.4768     | 0.6057
+
+--- Inductive Miner ---
+Inductive Miner    | 1.0000   | 0.5947     | 0.8617

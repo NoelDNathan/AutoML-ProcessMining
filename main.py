@@ -3,8 +3,9 @@ from analysis.log_analyzer import LogAnalyzer
 from analysis.process_discovery import ProcessDiscovery
 
 # --------------------------- CONFIGURATION ---------------------------
-FILE_PATH = "data/PermitLog.xes.gz"
+FILE_PATH = "data/PermitLog.xes"
 STYLE = "ggplot"
+
 
 def main():
     # Load the log file
@@ -37,6 +38,7 @@ def main():
     print("\n--- Process Model Discovery and Evaluation ---")
     discovery = ProcessDiscovery(log)
     discovery.run_all_miners_and_evaluate()
+
 
 if __name__ == "__main__":
     main()
