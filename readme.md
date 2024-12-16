@@ -78,7 +78,7 @@ event_log_analysis/
     └── summary.txt
 ├── notebooks/
     └── EDA.ipynb ## Complete Analysis for XES log files
-    └── HPO_Optuna_TPE.ipynb ## The HPO using Optuna Framework with Bayesian Optimization
+    └── HPO_Optuna_TPE.ipynb ## The HPO using Optuna Framework with Random Sampler
     └── HPO_DEAP_GeneticAlgorithm.ipynb ## The HPO using DEAP Framework with Genetic Algorithm
     └── automl-hyperopt.ipynb ## The HPO using HyperOpt Framework with Tree Parzen Estimator
 
