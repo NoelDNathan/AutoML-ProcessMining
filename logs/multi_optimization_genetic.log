@@ -1,257 +1,1022 @@
-2024-12-14 10:10:14,090 - Consumed Time Till Now: 0.00 Minutes
-2024-12-14 10:13:46,930 - Finished an iteration...
-2024-12-14 10:13:46,947 - Gen: 0, Record: {'avg': 0.9344244630393355, 'min': 0.38992597408938157, 'max': 1.0}
-2024-12-14 10:13:46,950 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:13:46,951 - Consumed Time Till Now: 3.55 Minutes
-2024-12-14 10:15:27,993 - Finished an iteration...
-2024-12-14 10:15:27,994 - Gen: 1, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:15:27,995 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:15:27,996 - Consumed Time Till Now: 5.23 Minutes
-2024-12-14 10:16:51,152 - Finished an iteration...
-2024-12-14 10:16:51,152 - Gen: 2, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:16:51,152 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:16:51,152 - Consumed Time Till Now: 6.62 Minutes
-2024-12-14 10:18:58,235 - Finished an iteration...
-2024-12-14 10:18:58,241 - Gen: 3, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:18:58,241 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:18:58,241 - Consumed Time Till Now: 8.74 Minutes
-2024-12-14 10:20:48,749 - Finished an iteration...
-2024-12-14 10:20:48,751 - Gen: 4, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:20:48,753 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:20:48,755 - Consumed Time Till Now: 10.58 Minutes
-2024-12-14 10:23:07,562 - Finished an iteration...
-2024-12-14 10:23:07,562 - Gen: 5, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:23:07,562 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:23:07,562 - Consumed Time Till Now: 12.89 Minutes
-2024-12-14 10:24:50,827 - Finished an iteration...
-2024-12-14 10:24:50,829 - Gen: 6, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:24:50,831 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:24:50,832 - Consumed Time Till Now: 14.61 Minutes
-2024-12-14 10:26:46,054 - Finished an iteration...
-2024-12-14 10:26:46,055 - Gen: 7, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:26:46,056 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:26:46,057 - Consumed Time Till Now: 16.53 Minutes
-2024-12-14 10:29:05,370 - Finished an iteration...
-2024-12-14 10:29:05,372 - Gen: 8, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:29:05,374 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:29:05,374 - Consumed Time Till Now: 18.85 Minutes
-2024-12-14 10:31:23,606 - Finished an iteration...
-2024-12-14 10:31:23,607 - Gen: 9, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:31:23,608 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:31:23,609 - Consumed Time Till Now: 21.16 Minutes
-2024-12-14 10:33:10,965 - Finished an iteration...
-2024-12-14 10:33:10,967 - Gen: 10, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:33:10,968 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:33:10,970 - Consumed Time Till Now: 22.95 Minutes
-2024-12-14 10:35:03,016 - Finished an iteration...
-2024-12-14 10:35:03,018 - Gen: 11, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:35:03,020 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:35:03,021 - Consumed Time Till Now: 24.82 Minutes
-2024-12-14 10:36:23,738 - Finished an iteration...
-2024-12-14 10:36:23,740 - Gen: 12, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:36:23,742 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:36:23,743 - Consumed Time Till Now: 26.16 Minutes
-2024-12-14 10:37:51,784 - Finished an iteration...
-2024-12-14 10:37:51,786 - Gen: 13, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:37:51,787 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:37:51,787 - Consumed Time Till Now: 27.63 Minutes
-2024-12-14 10:39:19,169 - Finished an iteration...
-2024-12-14 10:39:19,172 - Gen: 14, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:39:19,173 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:39:19,174 - Consumed Time Till Now: 29.08 Minutes
-2024-12-14 10:40:37,782 - Finished an iteration...
-2024-12-14 10:40:37,783 - Gen: 15, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:40:37,784 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:40:37,785 - Consumed Time Till Now: 30.39 Minutes
-2024-12-14 10:42:43,307 - Finished an iteration...
-2024-12-14 10:42:43,309 - Gen: 16, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:42:43,311 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:42:43,312 - Consumed Time Till Now: 32.49 Minutes
-2024-12-14 10:44:32,936 - Finished an iteration...
-2024-12-14 10:44:32,939 - Gen: 17, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:44:32,940 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:44:32,940 - Consumed Time Till Now: 34.31 Minutes
-2024-12-14 10:46:09,700 - Finished an iteration...
-2024-12-14 10:46:09,702 - Gen: 18, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:46:09,704 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:46:09,706 - Consumed Time Till Now: 35.93 Minutes
-2024-12-14 10:47:45,429 - Finished an iteration...
-2024-12-14 10:47:45,431 - Gen: 19, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:47:45,432 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:47:45,433 - Consumed Time Till Now: 37.52 Minutes
-2024-12-14 10:49:33,416 - Finished an iteration...
-2024-12-14 10:49:33,418 - Gen: 20, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:49:33,420 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:49:33,422 - Consumed Time Till Now: 39.32 Minutes
-2024-12-14 10:51:28,941 - Finished an iteration...
-2024-12-14 10:51:28,943 - Gen: 21, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:51:28,944 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:51:28,945 - Consumed Time Till Now: 41.25 Minutes
-2024-12-14 10:53:09,839 - Finished an iteration...
-2024-12-14 10:53:09,842 - Gen: 22, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:53:09,844 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:53:09,845 - Consumed Time Till Now: 42.93 Minutes
-2024-12-14 10:54:44,458 - Finished an iteration...
-2024-12-14 10:54:44,460 - Gen: 23, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:54:44,461 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:54:44,461 - Consumed Time Till Now: 44.51 Minutes
-2024-12-14 10:56:28,345 - Finished an iteration...
-2024-12-14 10:56:28,347 - Gen: 24, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:56:28,348 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:56:28,348 - Consumed Time Till Now: 46.24 Minutes
-2024-12-14 10:58:28,777 - Finished an iteration...
-2024-12-14 10:58:28,779 - Gen: 25, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 10:58:28,781 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 10:58:28,782 - Consumed Time Till Now: 48.24 Minutes
-2024-12-14 11:00:16,457 - Finished an iteration...
-2024-12-14 11:00:16,459 - Gen: 26, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:00:16,460 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:00:16,461 - Consumed Time Till Now: 50.04 Minutes
-2024-12-14 11:01:49,459 - Finished an iteration...
-2024-12-14 11:01:49,461 - Gen: 27, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:01:49,462 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:01:49,462 - Consumed Time Till Now: 51.59 Minutes
-2024-12-14 11:03:14,792 - Finished an iteration...
-2024-12-14 11:03:14,794 - Gen: 28, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:03:14,796 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:03:14,797 - Consumed Time Till Now: 53.01 Minutes
-2024-12-14 11:05:08,166 - Finished an iteration...
-2024-12-14 11:05:08,169 - Gen: 29, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:05:08,170 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:05:08,172 - Consumed Time Till Now: 54.90 Minutes
-2024-12-14 11:06:36,175 - Finished an iteration...
-2024-12-14 11:06:36,177 - Gen: 30, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:06:36,178 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:06:36,179 - Consumed Time Till Now: 56.37 Minutes
-2024-12-14 11:08:15,815 - Finished an iteration...
-2024-12-14 11:08:15,816 - Gen: 31, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:08:15,817 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:08:15,818 - Consumed Time Till Now: 58.03 Minutes
-2024-12-14 11:10:06,920 - Finished an iteration...
-2024-12-14 11:10:06,922 - Gen: 32, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:10:06,924 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:10:06,925 - Consumed Time Till Now: 59.88 Minutes
-2024-12-14 11:11:57,979 - Finished an iteration...
-2024-12-14 11:11:57,980 - Gen: 33, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:11:57,981 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:11:57,982 - Consumed Time Till Now: 61.73 Minutes
-2024-12-14 11:13:27,787 - Finished an iteration...
-2024-12-14 11:13:27,789 - Gen: 34, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:13:27,789 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:13:27,790 - Consumed Time Till Now: 63.23 Minutes
-2024-12-14 11:14:51,472 - Finished an iteration...
-2024-12-14 11:14:51,498 - Gen: 35, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:14:51,499 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:14:51,500 - Consumed Time Till Now: 64.62 Minutes
-2024-12-14 11:16:38,492 - Finished an iteration...
-2024-12-14 11:16:38,493 - Gen: 36, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:16:38,494 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:16:38,495 - Consumed Time Till Now: 66.41 Minutes
-2024-12-14 11:18:43,218 - Finished an iteration...
-2024-12-14 11:18:43,221 - Gen: 37, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:18:43,222 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:18:43,222 - Consumed Time Till Now: 68.49 Minutes
-2024-12-14 11:20:20,924 - Finished an iteration...
-2024-12-14 11:20:20,926 - Gen: 38, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:20:20,927 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:20:20,928 - Consumed Time Till Now: 70.11 Minutes
-2024-12-14 11:22:05,019 - Finished an iteration...
-2024-12-14 11:22:05,020 - Gen: 39, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:22:05,021 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:22:05,022 - Consumed Time Till Now: 71.85 Minutes
-2024-12-14 11:24:18,623 - Finished an iteration...
-2024-12-14 11:24:18,627 - Gen: 40, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:24:18,628 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:24:18,629 - Consumed Time Till Now: 74.08 Minutes
-2024-12-14 11:25:52,854 - Finished an iteration...
-2024-12-14 11:25:52,856 - Gen: 41, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:25:52,857 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:25:52,858 - Consumed Time Till Now: 75.65 Minutes
-2024-12-14 11:28:00,395 - Finished an iteration...
-2024-12-14 11:28:00,397 - Gen: 42, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:28:00,398 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:28:00,399 - Consumed Time Till Now: 77.77 Minutes
-2024-12-14 11:29:28,995 - Finished an iteration...
-2024-12-14 11:29:28,997 - Gen: 43, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:29:28,998 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:29:28,999 - Consumed Time Till Now: 79.25 Minutes
-2024-12-14 11:31:19,323 - Finished an iteration...
-2024-12-14 11:31:19,324 - Gen: 44, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:31:19,326 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:31:19,328 - Consumed Time Till Now: 81.09 Minutes
-2024-12-14 11:33:15,083 - Finished an iteration...
-2024-12-14 11:33:15,084 - Gen: 45, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:33:15,085 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:33:15,086 - Consumed Time Till Now: 83.02 Minutes
-2024-12-14 11:35:10,677 - Finished an iteration...
-2024-12-14 11:35:10,680 - Gen: 46, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:35:10,681 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:35:10,682 - Consumed Time Till Now: 84.94 Minutes
-2024-12-14 11:36:49,499 - Finished an iteration...
-2024-12-14 11:36:49,501 - Gen: 47, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:36:49,503 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:36:49,504 - Consumed Time Till Now: 86.59 Minutes
-2024-12-14 11:38:36,939 - Finished an iteration...
-2024-12-14 11:38:36,941 - Gen: 48, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:38:36,942 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:38:36,943 - Consumed Time Till Now: 88.38 Minutes
-2024-12-14 11:40:08,649 - Finished an iteration...
-2024-12-14 11:40:08,651 - Gen: 49, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:40:08,652 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:40:08,654 - Consumed Time Till Now: 89.91 Minutes
-2024-12-14 11:41:58,402 - Finished an iteration...
-2024-12-14 11:41:58,404 - Gen: 50, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:41:58,405 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:41:58,407 - Consumed Time Till Now: 91.74 Minutes
-2024-12-14 11:44:08,629 - Finished an iteration...
-2024-12-14 11:44:08,631 - Gen: 51, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:44:08,632 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:44:08,635 - Consumed Time Till Now: 93.91 Minutes
-2024-12-14 11:46:29,208 - Finished an iteration...
-2024-12-14 11:46:29,208 - Gen: 52, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:46:29,213 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:46:29,213 - Consumed Time Till Now: 96.25 Minutes
-2024-12-14 11:48:27,392 - Finished an iteration...
-2024-12-14 11:48:27,394 - Gen: 53, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:48:27,395 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:48:27,396 - Consumed Time Till Now: 98.22 Minutes
-2024-12-14 11:50:43,263 - Finished an iteration...
-2024-12-14 11:50:43,265 - Gen: 54, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:50:43,267 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:50:43,268 - Consumed Time Till Now: 100.49 Minutes
-2024-12-14 11:52:56,736 - Finished an iteration...
-2024-12-14 11:52:56,737 - Gen: 55, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:52:56,738 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:52:56,740 - Consumed Time Till Now: 102.71 Minutes
-2024-12-14 11:55:28,660 - Finished an iteration...
-2024-12-14 11:55:28,662 - Gen: 56, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:55:28,664 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:55:28,665 - Consumed Time Till Now: 105.24 Minutes
-2024-12-14 11:57:26,483 - Finished an iteration...
-2024-12-14 11:57:26,485 - Gen: 57, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:57:26,487 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:57:26,489 - Consumed Time Till Now: 107.21 Minutes
-2024-12-14 11:59:21,256 - Finished an iteration...
-2024-12-14 11:59:21,258 - Gen: 58, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 11:59:21,259 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 11:59:21,259 - Consumed Time Till Now: 109.12 Minutes
-2024-12-14 12:01:01,806 - Finished an iteration...
-2024-12-14 12:01:01,807 - Gen: 59, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 12:01:01,808 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 12:01:01,808 - Consumed Time Till Now: 110.80 Minutes
-2024-12-14 12:03:34,252 - Finished an iteration...
-2024-12-14 12:03:34,256 - Gen: 60, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 12:03:34,257 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 12:03:34,258 - Consumed Time Till Now: 113.34 Minutes
-2024-12-14 12:05:45,305 - Finished an iteration...
-2024-12-14 12:05:45,307 - Gen: 61, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 12:05:45,307 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 12:05:45,308 - Consumed Time Till Now: 115.52 Minutes
-2024-12-14 12:07:21,218 - Finished an iteration...
-2024-12-14 12:07:21,219 - Gen: 62, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 12:07:21,220 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 12:07:21,222 - Consumed Time Till Now: 117.12 Minutes
-2024-12-14 12:08:57,578 - Finished an iteration...
-2024-12-14 12:08:57,581 - Gen: 63, Record: {'avg': 0.9952371231232006, 'min': 0.9857113693696017, 'max': 1.0}
-2024-12-14 12:08:57,582 - Best Fitness: 1.000000, Best Generalization: 0.985711, Best Simplicity: 1.000000
-2024-12-14 12:08:57,583 - Consumed Time Till Now: 118.72 Minutes
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 87.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 88.63it/s]
+Evaluations: Fitness:  0.8888963350139137  - Generalization:  0.5723958772186805  - Simplicity:  0.4928571428571428
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 193.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 196.69it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 281.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 377.21it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 104.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 189.65it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 356.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.54it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 87.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 90.61it/s]
+Evaluations: Fitness:  0.8887185644460555  - Generalization:  0.5755586876306147  - Simplicity:  0.4862068965517241
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 83.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 121.38it/s]
+Evaluations: Fitness:  0.8677158777941524  - Generalization:  0.7173731808062038  - Simplicity:  0.5403726708074534
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 361.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 180.04it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 190.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 186.50it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 103.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 105.29it/s]
+Evaluations: Fitness:  0.878100010486998  - Generalization:  0.6729105406904332  - Simplicity:  0.522248243559719
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 47.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 75.76it/s]
+Evaluations: Fitness:  0.9116611731837209  - Generalization:  0.6008022612885109  - Simplicity:  0.4906621392190153
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 198.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 276.79it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 193.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 113.38it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 189.62it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 198.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 351.45it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 108.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 109.24it/s]
+Evaluations: Fitness:  0.8763336540714  - Generalization:  0.7079747389134123  - Simplicity:  0.5392953929539296
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 136.00it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 167.12it/s]
+Evaluations: Fitness:  0.38992597408938157  - Generalization:  0.8755626623886535  - Simplicity:  0.41626794258373206
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 67.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 52.59it/s]
+Evaluations: Fitness:  0.8923405036309697  - Generalization:  0.5744294071769166  - Simplicity:  0.4862068965517241
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:03<00:00, 205.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 301.24it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 361.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:02<00:00, 337.61it/s]
+Evaluations: Fitness:  1.0  - Generalization:  0.9857113693696017  - Simplicity:  1.0
+consumed...: 3.314018249511719e-05
+Consumed Time Till Now: %.2f Minutes 5.523363749186198e-07
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 55.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 80.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 89.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 91.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 48.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 83.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 87.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 114.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 187.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 104.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 171.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 191.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 185.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 168.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 176.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 190.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 117.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 173.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 160.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 188.34it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 0 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4433833094673115, 'generalization': 0.7715761094473041}
+consumed...: 174.43269157409668
+Consumed Time Till Now: %.2f Minutes 2.9072115262349447
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 89.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 75.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 87.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 55.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 85.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 89.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 88.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 188.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 163.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 187.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 114.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 188.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 118.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 188.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 187.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 169.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 109.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 188.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 108.51it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 1 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4435642263064582, 'generalization': 0.771690673511452}
+consumed...: 350.17771768569946
+Consumed Time Till Now: %.2f Minutes 5.8362952947616575
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 89.20it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 47.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 87.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 83.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 84.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 52.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 170.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 144.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 185.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 170.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 179.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 171.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 116.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 181.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 121.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 188.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 183.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 184.61it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 178.12it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 2 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44355996208298853, 'generalization': 0.7721555643457003}
+consumed...: 526.2623522281647
+Consumed Time Till Now: %.2f Minutes 8.771039203802745
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 50.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 89.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 80.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 89.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 69.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 57.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 88.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 110.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 104.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 191.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 190.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 191.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 175.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 105.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 188.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 106.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 169.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 135.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 189.07it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 3 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4434757756191887, 'generalization': 0.7717047240827523}
+consumed...: 703.7174468040466
+Consumed Time Till Now: %.2f Minutes 11.728624113400777
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 84.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 81.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 73.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 54.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 85.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 78.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 83.69it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 185.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 178.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 110.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 106.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 188.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 175.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 184.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 179.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 113.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 170.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 116.67it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 4 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4433875736907812, 'generalization': 0.7716119715974494}
+consumed...: 883.2823894023895
+Consumed Time Till Now: %.2f Minutes 14.721373156706493
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 80.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 47.86it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 65.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 86.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 88.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 52.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 182.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 118.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 180.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 190.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 170.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 158.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 115.49it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 120.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 185.84it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 186.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 186.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 183.27it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 5 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44351372900704994, 'generalization': 0.7714969255706227}
+consumed...: 1062.4435164928436
+Consumed Time Till Now: %.2f Minutes 17.707391941547392
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 50.56it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 83.02it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 84.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.31it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 57.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 52.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 85.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 117.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 106.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 164.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 126.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 181.53it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 153.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 162.71it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.75it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 117.44it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 190.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 119.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 163.28it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 6 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44351372900704994, 'generalization': 0.7718175158753043}
+consumed...: 1242.1450567245483
+Consumed Time Till Now: %.2f Minutes 20.702417612075806
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 81.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 87.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 74.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 47.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 79.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 77.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 82.85it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 177.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 162.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 155.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 101.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 183.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 112.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 179.30it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 184.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 192.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 181.20it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 105.55it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 7 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44351372900704994, 'generalization': 0.771190244495988}
+consumed...: 1424.675446510315
+Consumed Time Till Now: %.2f Minutes 23.744590775171915
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 81.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 49.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 87.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 80.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 82.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 186.09it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 112.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 188.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 108.74it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 167.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 168.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 176.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 112.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 181.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 103.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 162.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 176.97it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 8 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4433413406148426, 'generalization': 0.7707983848475053}
+consumed...: 1606.0096435546875
+Consumed Time Till Now: %.2f Minutes 26.766827392578126
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 82.65it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 49.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 82.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 86.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 76.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 73.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 48.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 178.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 149.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 178.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 182.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 167.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 111.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 182.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 113.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 173.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 162.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 176.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 172.36it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 9 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44334121623541156, 'generalization': 0.7705874633796028}
+consumed...: 1789.249517440796
+Consumed Time Till Now: %.2f Minutes 29.82082529067993
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 49.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 76.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 82.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 81.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 83.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 53.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 50.95it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 178.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 168.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 169.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 168.14it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 162.72it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 112.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 173.91it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 114.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 172.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 171.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 181.58it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.46it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 10 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44338330946731147, 'generalization': 0.7710918244499989}
+consumed...: 1975.8533952236176
+Consumed Time Till Now: %.2f Minutes 32.930889920393625
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 50.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 83.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 83.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 84.35it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 76.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 48.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 82.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 175.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 178.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 156.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 111.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 170.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 120.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 180.38it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 179.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 157.66it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 165.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 159.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 169.05it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 11 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4433791696232728, 'generalization': 0.7711670131756736}
+consumed...: 2162.4289031028748
+Consumed Time Till Now: %.2f Minutes 36.040481718381244
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 52.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:09<00:00, 81.05it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 79.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 79.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 81.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 48.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 55.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 177.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 182.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 181.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 111.96it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 173.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 107.76it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 181.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 172.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 162.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 170.73it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 180.97it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 12 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44337916962327284, 'generalization': 0.7719402900794504}
+consumed...: 2349.8521225452423
+Consumed Time Till Now: %.2f Minutes 39.164202042420705
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 51.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 78.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 78.15it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 81.68it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.98it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 45.42it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 55.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 171.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 175.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 170.25it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 172.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 119.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 174.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 98.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 177.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 110.97it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 179.50it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 136.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 155.47it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 149.42it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 13 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44351372900704994, 'generalization': 0.7716033547886815}
+consumed...: 2539.2174558639526
+Consumed Time Till Now: %.2f Minutes 42.32029093106588
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 45.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 47.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 81.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 78.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 80.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 72.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 48.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 176.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 110.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 169.21it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 172.82it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 155.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 162.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 136.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 173.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 119.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 171.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 116.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 168.06it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 175.73it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 14 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44342540269921144, 'generalization': 0.7707115925724765}
+consumed...: 2730.4795360565186
+Consumed Time Till Now: %.2f Minutes 45.50799226760864
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 47.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 80.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 79.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 82.40it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 73.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 49.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 156.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 119.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 175.77it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 170.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 160.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 159.37it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 105.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 169.64it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 108.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 168.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 112.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 177.67it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 178.36it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 15 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.4434757756191887, 'generalization': 0.7715897376946842}
+consumed...: 2921.6430144309998
+Consumed Time Till Now: %.2f Minutes 48.69405024051666
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 66.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 49.60it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 84.17it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 71.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 71.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 46.41it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 169.57it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 125.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 168.92it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 171.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 171.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 177.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 95.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 173.62it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 106.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 176.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 111.19it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 171.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 178.96it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 16 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44342954254325007, 'generalization': 0.7712579566030813}
+consumed...: 3112.897121191025
+Consumed Time Till Now: %.2f Minutes 51.88161868651708
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 67.28it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:14<00:00, 48.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 48.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 72.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 67.10it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 78.39it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.81it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 162.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 167.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 151.63it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 135.34it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 158.83it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 95.87it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 163.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 98.93it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 140.22it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 111.89it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 164.55it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 170.07it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 120.05it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 17 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44342954254325007, 'generalization': 0.7718981618473937}
+consumed...: 3316.603188753128
+Consumed Time Till Now: %.2f Minutes 55.27671981255214
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 78.16it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 80.46it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 44.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 55.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:11<00:00, 71.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:13<00:00, 73.27it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 79.94it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 149.36it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 169.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:05<00:00, 164.54it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 146.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 167.12it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 105.79it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 168.23it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 106.99it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 171.18it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 141.01it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 164.48it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 162.52it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 169.76it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 18 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44351372900704994, 'generalization': 0.7717411245994612}
+consumed...: 3513.8800942897797
+Consumed Time Till Now: %.2f Minutes 58.564668238162994
+Finished an iteration...
+Here1
+Here1
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 75.29it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 81.90it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 66.70it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 48.24it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:10<00:00, 71.43it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 78.26it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:12<00:00, 77.13it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 107.88it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 159.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 109.80it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 146.51it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 163.45it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 167.11it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 165.04it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 136.03it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 155.78it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:08<00:00, 111.59it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 152.33it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:06<00:00, 99.32it/s]
+replaying log with TBR, completed traces :: 100%
+ 1020/1020 [00:07<00:00, 165.04it/s]
+Gen: %d, Record (fitness, generalization, simplicity): %s 19 {'avg': 0.752892987580175, 'min': 0.38992597408938157, 'max': 1.0, 'simplicity': 0.44334165546913573, 'generalization': 0.7719902291062293}
+consumed...: 3712.491027355194
+Best individual multi objective: %s, Fitness: %s [2, False, True, 0.05119162175581606, 0.45704564729407665, 0.42567127267206073, 0.034260666351896174, 0, 0.6752125536040902] (1.0, 0.9857113693696017, 1.0)

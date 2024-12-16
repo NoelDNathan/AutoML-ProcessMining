@@ -3,7 +3,8 @@ from analysis.log_analyzer import LogAnalyzer
 from analysis.process_discovery import ProcessDiscovery
 
 # --------------------------- CONFIGURATION ---------------------------
-FILE_PATH = "data/PermitLog.xes"
+# FILE_PATH = "data/PermitLog.xes"
+FILE_PATH = "data/finale.csv"
 STYLE = "ggplot"
 
 
